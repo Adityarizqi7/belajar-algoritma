@@ -1,6 +1,6 @@
 # Belajar Algoritma
 
-Selamat datang di Repository Belajar Algoritma! Repository ini dibuat dengan tujuan untuk membantu pemula dan para profesional dalam mempelajari dan memahami konsep-konsep dasar algoritma serta penggunaannya dalam pemrograman dan diimplementasikan di lapangan.
+Selamat datang di Repository Belajar Algoritma! Repository ini dibuat dengan tujuan untuk membantu teman-teman dalam mempelajari konsep dasar algoritma serta penggunaannya dalam pemrograman dan diimplementasikan dalam studi kasus sesuai keinginan teman-teman.
 
 ## Mengapa Belajar Algoritma?
 
